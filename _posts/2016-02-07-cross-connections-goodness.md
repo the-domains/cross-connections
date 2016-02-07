@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T20:09:49.406Z'
-dateModified: '2016-02-07T20:09:46.298Z'
+datePublished: '2016-02-07T20:21:00.410Z'
+dateModified: '2016-02-07T20:20:23.668Z'
 title: Cross Connections- Goodness
 author: []
 sourcePath: _posts/2016-02-07-cross-connections-goodness.md
@@ -22,11 +22,15 @@ url: cross-connections-goodness/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d148edf3-2868-4d95-a2a1-df6b4551da3e.jpg)
+
 **__**
 
 **_Love your enemies, and do good, and lend, expecting
 nothing in return, and your reward will be great, and you will be sons of the
 Most High, for he is kind to the ungrateful and the evil. ~Luke 6:35_**
+
+**__**
 
 It seems like, more than
 most of the other fruits of the Spirit, goodness gets short shrift these
@@ -462,4 +466,3 @@ Person in the universe, and I want to know you more. Help me to see how
 precious you are; help me to taste and see how deeply satisfying you are; give
 me greater glimpses of your glory that thrill my soul; and send me out in the
 cause of sacrifice where the deepest intimacy with you is found. _
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d148edf3-2868-4d95-a2a1-df6b4551da3e.jpg)
