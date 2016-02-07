@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T20:21:00.410Z'
-dateModified: '2016-02-07T20:20:23.668Z'
+datePublished: '2016-02-07T20:38:35.818Z'
+dateModified: '2016-02-07T20:38:19.184Z'
 title: Cross Connections- Goodness
 author: []
 sourcePath: _posts/2016-02-07-cross-connections-goodness.md
@@ -22,21 +22,16 @@ url: cross-connections-goodness/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d148edf3-2868-4d95-a2a1-df6b4551da3e.jpg)
-
 **__**
 
-**_Love your enemies, and do good, and lend, expecting
-nothing in return, and your reward will be great, and you will be sons of the
-Most High, for he is kind to the ungrateful and the evil. ~Luke 6:35_**
-
 **__**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d367bffc-5403-4ec9-8299-359454efd462.jpg)
+
+**_Love your enemies, and do good, and lend, expecting nothing in return, and your reward will be great, and you will be sons of the Most High, for he is kind to the ungrateful and the evil. ~Luke 6:35_**
 
 It seems like, more than
 most of the other fruits of the Spirit, goodness gets short shrift these
-days.
-
-This is probably the most
+days. This is probably the most
 overlooked of all the fruits of the Spirit, because we're just not sure what to
 do with it. For starters, it seems like all the bases of the Christian life
 have already been covered with virtues like love, joy, peace, patience, and
@@ -95,9 +90,7 @@ one will be justified" (Galatians 2:16)-- and so it's obvious that this
 guy is deeply mistaken at the most fundamental level.
 
 What's surprising, then, is how Jesus
-responds to him.
-
-Jesus, as he seems to
+responds to him. Jesus, as he seems to
 always do, looks straight through the man's question to the man's heart, and
 responds to what is really there. And what Jesus saw there was a critically
 flawed definition of goodness. "Why do you ask me about what is good? There
@@ -282,9 +275,7 @@ between God's goodness and his treatment of sinners even more clearly in Psalm
 __
 
 _Remember not the sins of my youth or
-my transgressions; according to your steadfast love remember me, _
-
-_**for the sake of your goodness**_
+my transgressions; according to your steadfast love remember me,__**for the sake of your goodness**_
 
 , O LORD!
 Good and upright is the LORD; therefore he instructs sinners in the way.
