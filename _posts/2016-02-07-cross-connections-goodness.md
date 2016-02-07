@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T19:30:25.780Z'
-dateModified: '2016-02-07T19:30:24.482Z'
+datePublished: '2016-02-07T20:09:49.406Z'
+dateModified: '2016-02-07T20:09:46.298Z'
 title: Cross Connections- Goodness
 author: []
+sourcePath: _posts/2016-02-07-cross-connections-goodness.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-cross-connections-goodness.md
-published: true
 url: cross-connections-goodness/index.html
 _type: Article
 
