@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T20:45:14.530Z'
-dateModified: '2016-02-07T20:45:11.246Z'
+datePublished: '2016-02-07T23:08:40.738Z'
+dateModified: '2016-02-07T23:08:33.908Z'
 title: Cross Connections- Goodness
 author: []
 sourcePath: _posts/2016-02-07-cross-connections-goodness.md
