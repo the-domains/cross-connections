@@ -4,11 +4,18 @@
         <description><![CDATA[Cross Connections]]></description>
         <link>http://brendanbeale.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 21:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 21:40:51 GMT</lastBuildDate>
         <atom:link href="http://brendanbeale.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Cross Connections- Welcome]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Welcome</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33940d6ba9b19b9f38bb1689061a9eb9b2aaf805.jpg"></article>]]></description>
+            <link>http://brendanbeale.org/cross-connections-welcome/index.html</link>
+            <guid isPermaLink="false">53339f56-12f5-4abc-9ef0-285aef9824de</guid>
+            <pubDate>Sun, 07 Feb 2016 21:05:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cross Connections- Glorify]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Glorify</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5b15b17-9948-408d-adb2-da22e406ae91.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Cross Connections- Glorify</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a7c4983aaf9b4c097db585fcb97322fc477b41a.jpg"></article>]]></description>
             <link>http://brendanbeale.org/cross-connections-glorify/index.html</link>
             <guid isPermaLink="false">c4d8c12b-77d1-4bfd-b7d7-94e62fc043af</guid>
             <pubDate>Sun, 07 Feb 2016 21:00:56 GMT</pubDate>
@@ -74,13 +81,6 @@ nine other virtues-- is meant to demonstrate that.</p><img src="https://s3-us-we
             <link>http://brendanbeale.org/81d76dad-84dc-478e-a8cd-a90d9640bc0d/index.html</link>
             <guid isPermaLink="false">81d76dad-84dc-478e-a8cd-a90d9640bc0d</guid>
             <pubDate>Sun, 07 Feb 2016 20:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Joy]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Joy</h1><p>With joy you will draw water from the wells of salvation. ~Isaiah 12:3</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/399efaf327b2d528237de50c9ec3b10f198dfd35.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/dbe8fd93-7e2d-4b2c-81db-9bb8f0b28e6d/index.html</link>
-            <guid isPermaLink="false">dbe8fd93-7e2d-4b2c-81db-9bb8f0b28e6d</guid>
-            <pubDate>Sun, 07 Feb 2016 20:11:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
