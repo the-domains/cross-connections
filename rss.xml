@@ -4,15 +4,8 @@
         <description><![CDATA[Cross Connections]]></description>
         <link>http://brendanbeale.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 21:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 21:41:41 GMT</lastBuildDate>
         <atom:link href="http://brendanbeale.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Cross Connections- Prayer]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Prayer</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc5865e61e9f098698ad3639f270dd8be4d6c25a.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/cross-connections-prayer/index.html</link>
-            <guid isPermaLink="false">7a7e30a4-a0c7-4aa9-b7ad-ff99535e32cc</guid>
-            <pubDate>Sun, 07 Feb 2016 21:22:56 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Cross Connections- Missions]]></title>
             <description><![CDATA[<article><h1>Cross Connections- Missions</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15252e4e34b23121235f345561e176493162e218.jpg"></article>]]></description>
@@ -81,6 +74,13 @@ nine other virtues-- is meant to demonstrate that.</p><img src="https://s3-us-we
             <link>http://brendanbeale.org/cross-connections-gentleness/index.html</link>
             <guid isPermaLink="false">a3dc9ffb-360b-483e-9f33-41bd65e06d3f</guid>
             <pubDate>Sun, 07 Feb 2016 20:25:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cross Connections- Faithfulness]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Faithfulness</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ac9496afe8c31d4aa1ad7e41ea5fae620bb906e.jpg"></article>]]></description>
+            <link>http://brendanbeale.org/cross-connections-faithfulness/index.html</link>
+            <guid isPermaLink="false">b1b141fd-b81e-43a0-aa33-c517428d9b58</guid>
+            <pubDate>Sun, 07 Feb 2016 20:24:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
