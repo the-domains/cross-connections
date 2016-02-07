@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T20:09:13.206Z'
-dateModified: '2016-02-07T20:09:08.206Z'
+datePublished: '2016-02-07T20:24:07.629Z'
+dateModified: '2016-02-07T20:24:04.440Z'
 title: Cross Connections- Faithfulness
 author: []
 sourcePath: _posts/2016-02-07-cross-connections-faithfulness.md
@@ -23,10 +23,9 @@ _type: Article
 
 ---
 **__**
-
-**_For all the promises of God find their "Yes" in
-him. ~2 Corinthians 1:20_**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea6ba435-9560-4803-8d42-d5ef18aeb518.jpg)
+
+**_For all the promises of God find their "Yes" in him. ~2 Corinthians 1:20_**
 
 "Faithfulness"
 simply means keeping your promises. All the places in the Bible that talk about
