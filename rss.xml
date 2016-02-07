@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cross Connections]]></title>
         <description><![CDATA[Cross Connections]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cross-connections/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 18:15:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 18:39:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cross-connections/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cb67f96-d497-4b91-8d78-6607fcde3e6d.jpg">]]></description>
+            <link>https://thegrid.ai/cross-connections/783243af-23e2-4e90-b119-fa5eea629012/index.html</link>
+            <guid isPermaLink="false">783243af-23e2-4e90-b119-fa5eea629012</guid>
+            <pubDate>Sun, 07 Feb 2016 18:39:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a69c904-652d-45e7-a5d0-a9ea8849a236.png">]]></description>
-            <link>undefineda38a3758-0d2c-4cd6-8e70-78e87845e0b7/index.html</link>
+            <link>https://thegrid.ai/cross-connections/a38a3758-0d2c-4cd6-8e70-78e87845e0b7/index.html</link>
             <guid isPermaLink="false">a38a3758-0d2c-4cd6-8e70-78e87845e0b7</guid>
             <pubDate>Sun, 07 Feb 2016 18:15:26 GMT</pubDate>
         </item>
