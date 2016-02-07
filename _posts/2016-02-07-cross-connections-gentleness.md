@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T20:05:37.770Z'
-dateModified: '2016-02-07T20:05:29.333Z'
+datePublished: '2016-02-07T20:08:50.359Z'
+dateModified: '2016-02-07T20:08:35.611Z'
 title: Cross Connections- Gentleness
 author: []
+sourcePath: _posts/2016-02-07-cross-connections-gentleness.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-cross-connections-gentleness.md
-published: true
 url: cross-connections-gentleness/index.html
 _type: Article
 
