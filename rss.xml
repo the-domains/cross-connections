@@ -4,29 +4,8 @@
         <description><![CDATA[Cross Connections]]></description>
         <link>http://brendanbeale.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 21:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 21:41:30 GMT</lastBuildDate>
         <atom:link href="http://brendanbeale.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Cross Connections- Missions]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Missions</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15252e4e34b23121235f345561e176493162e218.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/cross-connections-missions/index.html</link>
-            <guid isPermaLink="false">407ad63b-8d48-4009-986e-778cf91b97a8</guid>
-            <pubDate>Sun, 07 Feb 2016 21:15:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Generosity]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Generosity</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d38e4e065949052517b15ecc514866f72e8954bb.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/cross-connections-generosity/index.html</link>
-            <guid isPermaLink="false">ec27f701-7687-434c-8791-5352e3e82f4a</guid>
-            <pubDate>Sun, 07 Feb 2016 21:13:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Humility]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Humility</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08237c1d5cf85f29bd2caa278389011f9e7c6de8.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/cross-connections-humility/index.html</link>
-            <guid isPermaLink="false">22c8f1ea-3e40-4bbc-b952-f5e749818d5c</guid>
-            <pubDate>Sun, 07 Feb 2016 21:10:16 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Cross Connections- Purity]]></title>
             <description><![CDATA[<article><h1>Cross Connections- Purity</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25ad484e67174ca1a10db03dc690f8c21d884bcc.jpg"></article>]]></description>
@@ -81,6 +60,27 @@ nine other virtues-- is meant to demonstrate that.</p><img src="https://s3-us-we
             <link>http://brendanbeale.org/cross-connections-faithfulness/index.html</link>
             <guid isPermaLink="false">b1b141fd-b81e-43a0-aa33-c517428d9b58</guid>
             <pubDate>Sun, 07 Feb 2016 20:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cross Connections- Goodness]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Goodness</h1><p></p></article>]]></description>
+            <link>http://brendanbeale.org/cross-connections-goodness/index.html</link>
+            <guid isPermaLink="false">9daedee3-e8e2-4ea7-aebf-71764dd0b32a</guid>
+            <pubDate>Sun, 07 Feb 2016 20:45:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cross Connections- Kindness]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Kindness</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/008ca2a11773c590fad92bdcd83462b84a88228f.jpg"></article>]]></description>
+            <link>http://brendanbeale.org/3a205e39-fa80-40a5-8e6c-ccfad2f0092d/index.html</link>
+            <guid isPermaLink="false">3a205e39-fa80-40a5-8e6c-ccfad2f0092d</guid>
+            <pubDate>Sun, 07 Feb 2016 20:36:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cross Connections- Patience]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Patience</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1550a39b2662bd1c1527b3f41533049e8253f25.jpg"></article>]]></description>
+            <link>http://brendanbeale.org/fe4ad114-72db-4d0b-b7bc-e903ef04b6d3/index.html</link>
+            <guid isPermaLink="false">fe4ad114-72db-4d0b-b7bc-e903ef04b6d3</guid>
+            <pubDate>Sun, 07 Feb 2016 20:10:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
