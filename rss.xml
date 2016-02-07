@@ -4,8 +4,15 @@
         <description><![CDATA[Cross Connections]]></description>
         <link>http://brendanbeale.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 21:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 21:39:35 GMT</lastBuildDate>
         <atom:link href="http://brendanbeale.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cross Connections- Glorify]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Glorify</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5b15b17-9948-408d-adb2-da22e406ae91.jpg"></article>]]></description>
+            <link>http://brendanbeale.org/cross-connections-glorify/index.html</link>
+            <guid isPermaLink="false">c4d8c12b-77d1-4bfd-b7d7-94e62fc043af</guid>
+            <pubDate>Sun, 07 Feb 2016 21:00:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cross Connections- Fruit of the Spirit]]></title>
             <description><![CDATA[<article><h1>Cross Connections- Fruit of the Spirit</h1><p>For the last nine lessons,
@@ -74,13 +81,6 @@ nine other virtues-- is meant to demonstrate that.</p><img src="https://s3-us-we
             <link>http://brendanbeale.org/dbe8fd93-7e2d-4b2c-81db-9bb8f0b28e6d/index.html</link>
             <guid isPermaLink="false">dbe8fd93-7e2d-4b2c-81db-9bb8f0b28e6d</guid>
             <pubDate>Sun, 07 Feb 2016 20:11:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Love]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Love</h1><p></p></article>]]></description>
-            <link>http://brendanbeale.org/c32ed2e2-226a-43b0-9a0b-defda8419f0c/index.html</link>
-            <guid isPermaLink="false">c32ed2e2-226a-43b0-9a0b-defda8419f0c</guid>
-            <pubDate>Sun, 07 Feb 2016 20:12:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
