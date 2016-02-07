@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T22:20:16.759Z'
-dateModified: '2016-02-07T22:20:12.514Z'
+datePublished: '2016-02-07T22:26:29.518Z'
+dateModified: '2016-02-07T22:26:24.766Z'
 title: 'The World, the Flesh, and the Devil- Part 3'
 author: []
+sourcePath: _posts/2016-02-07-the-world-the-flesh-and-the-devil-part-3.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-the-world-the-flesh-and-the-devil-part-3.md
-published: true
 url: the-world-the-flesh-and-the-devil-part-3/index.html
 _type: Article
 
