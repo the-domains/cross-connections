@@ -4,8 +4,15 @@
         <description><![CDATA[Cross Connections]]></description>
         <link>http://brendanbeale.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 21:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 22:06:58 GMT</lastBuildDate>
         <atom:link href="http://brendanbeale.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The World, the Flesh, and the Devil- Introduction]]></title>
+            <description><![CDATA[<article><h1>The World, the Flesh, and the Devil- Introduction</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20173e8f98b0e127b2190df5f244b7715443c4fa.jpg"></article>]]></description>
+            <link>http://brendanbeale.org/the-world-the-flesh-and-the-devil-introduction/index.html</link>
+            <guid isPermaLink="false">8dab3a77-7a10-4ac3-93d1-b7d014043270</guid>
+            <pubDate>Sun, 07 Feb 2016 22:06:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cross Connections- Forgiveness]]></title>
             <description><![CDATA[<article><h1>Cross Connections- Forgiveness</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f2d4bcfba2a28cd52f1e022ed8a57b24dd86195.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://brendanbeale.org/cross-connections-welcome/index.html</link>
             <guid isPermaLink="false">53339f56-12f5-4abc-9ef0-285aef9824de</guid>
             <pubDate>Sun, 07 Feb 2016 21:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Glorify]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Glorify</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a7c4983aaf9b4c097db585fcb97322fc477b41a.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/cross-connections-glorify/index.html</link>
-            <guid isPermaLink="false">c4d8c12b-77d1-4bfd-b7d7-94e62fc043af</guid>
-            <pubDate>Sun, 07 Feb 2016 21:00:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
