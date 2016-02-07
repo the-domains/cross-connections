@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T20:24:07.629Z'
-dateModified: '2016-02-07T20:24:04.440Z'
+datePublished: '2016-02-07T23:07:13.193Z'
+dateModified: '2016-02-07T23:07:08.992Z'
 title: Cross Connections- Faithfulness
 author: []
 sourcePath: _posts/2016-02-07-cross-connections-faithfulness.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 **__**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea6ba435-9560-4803-8d42-d5ef18aeb518.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/31c9c44d7128deb165976d6d8fe04847e86274d0.jpg)
 
 **_For all the promises of God find their "Yes" in him. ~2 Corinthians 1:20_**
 
