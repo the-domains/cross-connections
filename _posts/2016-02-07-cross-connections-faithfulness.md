@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T19:40:41.534Z'
-dateModified: '2016-02-07T19:40:27.711Z'
+datePublished: '2016-02-07T20:09:13.206Z'
+dateModified: '2016-02-07T20:09:08.206Z'
 title: Cross Connections- Faithfulness
 author: []
+sourcePath: _posts/2016-02-07-cross-connections-faithfulness.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-cross-connections-faithfulness.md
-published: true
 url: cross-connections-faithfulness/index.html
 _type: Article
 
