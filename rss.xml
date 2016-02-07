@@ -1,11 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cross Connections]]></title>
-        <description><![CDATA[Cross Connections]]></description>
+        <title><![CDATA[Brendan Beale]]></title>
+        <description><![CDATA[Brendan Beale]]></description>
         <link>http://brendanbeale.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 22:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 23:09:45 GMT</lastBuildDate>
         <atom:link href="http://brendanbeale.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grace That Taught My Heart To Fear]]></title>
+            <description><![CDATA[<article><h1>Grace That Taught My Heart To Fear</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7acccc2c4e09eafe8db2587a6d4b777b9d8c8fe1.png"></article>]]></description>
+            <link>http://brendanbeale.org/9d46cc15-fa22-4958-b377-f51b864c49aa/index.html</link>
+            <guid isPermaLink="false">9d46cc15-fa22-4958-b377-f51b864c49aa</guid>
+            <pubDate>Sun, 07 Feb 2016 23:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cross Connections- Goodness]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Goodness</h1><p></p></article>]]></description>
+            <link>http://brendanbeale.org/cross-connections-goodness/index.html</link>
+            <guid isPermaLink="false">9daedee3-e8e2-4ea7-aebf-71764dd0b32a</guid>
+            <pubDate>Sun, 07 Feb 2016 23:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cross Connections- Gentleness]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Gentleness</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3513ffa1486da976eff2f222a5821ad4e12843c3.jpg"></article>]]></description>
+            <link>http://brendanbeale.org/cross-connections-gentleness/index.html</link>
+            <guid isPermaLink="false">a3dc9ffb-360b-483e-9f33-41bd65e06d3f</guid>
+            <pubDate>Sun, 07 Feb 2016 23:08:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cross Connections- Faithfulness]]></title>
+            <description><![CDATA[<article><h1>Cross Connections- Faithfulness</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ac9496afe8c31d4aa1ad7e41ea5fae620bb906e.jpg"></article>]]></description>
+            <link>http://brendanbeale.org/cross-connections-faithfulness/index.html</link>
+            <guid isPermaLink="false">b1b141fd-b81e-43a0-aa33-c517428d9b58</guid>
+            <pubDate>Sun, 07 Feb 2016 23:07:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The World, the Flesh, and the Devil- Part 3]]></title>
+            <description><![CDATA[<article><h1>The World, the Flesh, and the Devil- Part 3</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79cab2d70222cc42a4e5eaebbea0356cec2502ae.png"></article>]]></description>
+            <link>http://brendanbeale.org/the-world-the-flesh-and-the-devil-part-3/index.html</link>
+            <guid isPermaLink="false">60e7fc4d-ea09-4d5d-befa-efd62b5b8748</guid>
+            <pubDate>Sun, 07 Feb 2016 22:26:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The World, the Flesh, and the Devil- Part 2]]></title>
+            <description><![CDATA[<article><h1>The World, the Flesh, and the Devil- Part 2</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24a59abf8abd38b117e6fe39079b7b34be94c50c.png"></article>]]></description>
+            <link>http://brendanbeale.org/the-world-the-flesh-and-the-devil-part-2/index.html</link>
+            <guid isPermaLink="false">6bbe4bd6-5a98-4dda-b25f-dc934313bf67</guid>
+            <pubDate>Sun, 07 Feb 2016 22:12:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The World, the Flesh, and the Devil- Part 1]]></title>
+            <description><![CDATA[<article><h1>The World, the Flesh, and the Devil- Part 1</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/815eb9082a2cb5c7d99035ab4acb5e7297628874.png"></article>]]></description>
+            <link>http://brendanbeale.org/28ea2691-55f4-466a-9062-d7a4ce068c7c/index.html</link>
+            <guid isPermaLink="false">28ea2691-55f4-466a-9062-d7a4ce068c7c</guid>
+            <pubDate>Sun, 07 Feb 2016 22:22:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The World, the Flesh, and the Devil- Introduction]]></title>
             <description><![CDATA[<article><h1>The World, the Flesh, and the Devil- Introduction</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20173e8f98b0e127b2190df5f244b7715443c4fa.jpg"></article>]]></description>
@@ -21,60 +70,11 @@
             <pubDate>Sun, 07 Feb 2016 21:03:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/608d38e4-b4e1-4076-b2f8-18c2a8d51b7a.png">]]></description>
-            <link>http://brendanbeale.org/9d46cc15-fa22-4958-b377-f51b864c49aa/index.html</link>
-            <guid isPermaLink="false">9d46cc15-fa22-4958-b377-f51b864c49aa</guid>
-            <pubDate>Sun, 07 Feb 2016 21:32:59 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Cross Connections- Bible]]></title>
             <description><![CDATA[<article><h1>Cross Connections- Bible</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e4e2fe9c06dbee3cebd7e075c85775901006133.jpg"></article>]]></description>
             <link>http://brendanbeale.org/cross-connections-bible/index.html</link>
             <guid isPermaLink="false">777c136d-8b8d-49c7-8b44-311b5dc2ab2e</guid>
             <pubDate>Sun, 07 Feb 2016 21:28:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Prayer]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Prayer</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc5865e61e9f098698ad3639f270dd8be4d6c25a.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/cross-connections-prayer/index.html</link>
-            <guid isPermaLink="false">7a7e30a4-a0c7-4aa9-b7ad-ff99535e32cc</guid>
-            <pubDate>Sun, 07 Feb 2016 21:22:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Missions]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Missions</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15252e4e34b23121235f345561e176493162e218.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/cross-connections-missions/index.html</link>
-            <guid isPermaLink="false">407ad63b-8d48-4009-986e-778cf91b97a8</guid>
-            <pubDate>Sun, 07 Feb 2016 21:15:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Generosity]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Generosity</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d38e4e065949052517b15ecc514866f72e8954bb.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/cross-connections-generosity/index.html</link>
-            <guid isPermaLink="false">ec27f701-7687-434c-8791-5352e3e82f4a</guid>
-            <pubDate>Sun, 07 Feb 2016 21:13:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Humility]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Humility</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08237c1d5cf85f29bd2caa278389011f9e7c6de8.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/cross-connections-humility/index.html</link>
-            <guid isPermaLink="false">22c8f1ea-3e40-4bbc-b952-f5e749818d5c</guid>
-            <pubDate>Sun, 07 Feb 2016 21:10:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Purity]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Purity</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25ad484e67174ca1a10db03dc690f8c21d884bcc.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/cross-connections-purity/index.html</link>
-            <guid isPermaLink="false">97e16820-43cf-4c8d-b138-c1bdc95934be</guid>
-            <pubDate>Sun, 07 Feb 2016 21:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Welcome]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Welcome</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33940d6ba9b19b9f38bb1689061a9eb9b2aaf805.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/cross-connections-welcome/index.html</link>
-            <guid isPermaLink="false">53339f56-12f5-4abc-9ef0-285aef9824de</guid>
-            <pubDate>Sun, 07 Feb 2016 21:05:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
