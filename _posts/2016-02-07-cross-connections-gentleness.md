@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T20:25:32.145Z'
-dateModified: '2016-02-07T20:25:28.743Z'
+datePublished: '2016-02-07T23:08:02.588Z'
+dateModified: '2016-02-07T23:07:53.432Z'
 title: Cross Connections- Gentleness
 author: []
 sourcePath: _posts/2016-02-07-cross-connections-gentleness.md
