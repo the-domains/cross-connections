@@ -4,7 +4,7 @@
         <description><![CDATA[Brendan Beale]]></description>
         <link>http://brendanbeale.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 00:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 00:27:17 GMT</lastBuildDate>
         <atom:link href="http://brendanbeale.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grace That Taught My Heart To Fear]]></title>
@@ -12,6 +12,13 @@
             <link>http://brendanbeale.org/9d46cc15-fa22-4958-b377-f51b864c49aa/index.html</link>
             <guid isPermaLink="false">9d46cc15-fa22-4958-b377-f51b864c49aa</guid>
             <pubDate>Mon, 08 Feb 2016 00:15:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grace That Taught My Heart To Fear]]></title>
+            <description><![CDATA[<article><h1>Grace That Taught My Heart To Fear</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b09850c0716c9dcf76bf3abb1b80892aaf8a8012.jpg"></article>]]></description>
+            <link>http://www.amazon.com/Grace-That-Taught-Heart-Fear/dp/1320507263/ref=sr_1_2?ie=UTF8&amp;qid=1454890841&amp;sr=8-2&amp;keywords=brendan+beale</link>
+            <guid isPermaLink="false">b750fa59-85be-426e-99c2-f0c346920f6f</guid>
+            <pubDate>Mon, 08 Feb 2016 00:25:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cross Connections]]></title>
@@ -68,13 +75,6 @@
             <link>http://brendanbeale.org/28ea2691-55f4-466a-9062-d7a4ce068c7c/index.html</link>
             <guid isPermaLink="false">28ea2691-55f4-466a-9062-d7a4ce068c7c</guid>
             <pubDate>Sun, 07 Feb 2016 22:22:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World, the Flesh, and the Devil- Introduction]]></title>
-            <description><![CDATA[<article><h1>The World, the Flesh, and the Devil- Introduction</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20173e8f98b0e127b2190df5f244b7715443c4fa.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/the-world-the-flesh-and-the-devil-introduction/index.html</link>
-            <guid isPermaLink="false">8dab3a77-7a10-4ac3-93d1-b7d014043270</guid>
-            <pubDate>Sun, 07 Feb 2016 22:06:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
