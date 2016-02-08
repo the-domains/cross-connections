@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T22:06:46.201Z'
-dateModified: '2016-02-07T22:06:32.555Z'
+datePublished: '2016-02-08T02:57:22.302Z'
+dateModified: '2016-02-08T02:51:11.576Z'
 title: 'The World, the Flesh, and the Devil- Introduction'
 author: []
+sourcePath: _posts/2016-02-07-the-world-the-flesh-and-the-devil-introduction.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-the-world-the-flesh-and-the-devil-introduction.md
-published: true
 url: the-world-the-flesh-and-the-devil-introduction/index.html
 _type: Article
 
