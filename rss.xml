@@ -4,7 +4,7 @@
         <description><![CDATA[Brendan Beale]]></description>
         <link>http://brendanbeale.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 00:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 00:26:43 GMT</lastBuildDate>
         <atom:link href="http://brendanbeale.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grace That Taught My Heart To Fear]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 08 Feb 2016 00:15:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cross Connections]]></title>
+            <description><![CDATA[<article><h1>Cross Connections</h1><p>Cross Connections [Brendan Beale] on Amazon.com. *FREE* shipping on qualifying offers. The cross is the center of history, the Bible, and the Christian life. In fact, the Bible explicitly ties every single thing that believers are called to do</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c25254df4f387f95d4ad57a63d616e6de432913a.jpg"></article>]]></description>
+            <link>http://www.amazon.com/Cross-Connections-Brendan-Beale/dp/1320328849/ref=tmm_pap_title_0?_encoding=UTF8&amp;qid=1454890841&amp;sr=8-1</link>
+            <guid isPermaLink="false">964f8b8e-bb18-482d-9108-da299c2da98a</guid>
+            <pubDate>Mon, 08 Feb 2016 00:25:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The World, the Flesh, and the Devil]]></title>
-            <description><![CDATA[<article><h1>The World, the Flesh, and the Devil</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a46cc2d7af793e53a85e92550ef308dbf7ee787.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The World, the Flesh, and the Devil</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f80f77ab1dfb261baf81837acf69d27195ac69fb.jpg"></article>]]></description>
             <link>http://www.amazon.com/World-Flesh-Devil-Brendan-Beale/dp/1320511805/ref=sr_1_3?ie=UTF8&amp;qid=1454890841&amp;sr=8-3&amp;keywords=brendan+beale</link>
             <guid isPermaLink="false">6e9a923c-6908-4d31-8284-dc1b6f22812c</guid>
             <pubDate>Mon, 08 Feb 2016 00:25:46 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://brendanbeale.org/the-world-the-flesh-and-the-devil-introduction/index.html</link>
             <guid isPermaLink="false">8dab3a77-7a10-4ac3-93d1-b7d014043270</guid>
             <pubDate>Sun, 07 Feb 2016 22:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cross Connections- Forgiveness]]></title>
-            <description><![CDATA[<article><h1>Cross Connections- Forgiveness</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f2d4bcfba2a28cd52f1e022ed8a57b24dd86195.jpg"></article>]]></description>
-            <link>http://brendanbeale.org/cross-connections-forgiveness/index.html</link>
-            <guid isPermaLink="false">e00c0238-fad3-42b9-b8b9-46c40350ed9d</guid>
-            <pubDate>Sun, 07 Feb 2016 21:03:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
