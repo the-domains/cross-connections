@@ -4,7 +4,7 @@
         <description><![CDATA[Brendan Beale- wrecked and remade by Jesus]]></description>
         <link>http://brendanbeale.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 02:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 02:59:00 GMT</lastBuildDate>
         <atom:link href="http://brendanbeale.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Grace That Taught My Heart To Fear]]></title>
@@ -12,6 +12,13 @@
             <link>http://brendanbeale.org/9d46cc15-fa22-4958-b377-f51b864c49aa/index.html</link>
             <guid isPermaLink="false">9d46cc15-fa22-4958-b377-f51b864c49aa</guid>
             <pubDate>Mon, 08 Feb 2016 02:56:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The World, the Flesh, and the Devil- Introduction]]></title>
+            <description><![CDATA[<article><h1>The World, the Flesh, and the Devil- Introduction</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20173e8f98b0e127b2190df5f244b7715443c4fa.jpg"></article>]]></description>
+            <link>http://brendanbeale.org/the-world-the-flesh-and-the-devil-introduction/index.html</link>
+            <guid isPermaLink="false">8dab3a77-7a10-4ac3-93d1-b7d014043270</guid>
+            <pubDate>Mon, 08 Feb 2016 02:57:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cross Connections- Introduction]]></title>
@@ -68,13 +75,6 @@
             <link>http://brendanbeale.org/the-world-the-flesh-and-the-devil-part-3/index.html</link>
             <guid isPermaLink="false">60e7fc4d-ea09-4d5d-befa-efd62b5b8748</guid>
             <pubDate>Sun, 07 Feb 2016 23:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World, the Flesh, and the Devil- Part 2]]></title>
-            <description><![CDATA[<article><h1>The World, the Flesh, and the Devil- Part 2</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24a59abf8abd38b117e6fe39079b7b34be94c50c.png"></article>]]></description>
-            <link>http://brendanbeale.org/the-world-the-flesh-and-the-devil-part-2/index.html</link>
-            <guid isPermaLink="false">6bbe4bd6-5a98-4dda-b25f-dc934313bf67</guid>
-            <pubDate>Mon, 08 Feb 2016 00:04:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
