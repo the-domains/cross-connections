@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wrecked and Remade by Jesus]]></title>
         <description><![CDATA[Wrecked and Remade by Jesus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://brendanbeale.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 20:01:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 20:28:42 GMT</lastBuildDate>
+        <atom:link href="http://brendanbeale.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Brendan Beale (@theophilus318). Wrecked and remade by Jesus. Husband, father, teacher, author, pizza-lover. In that order. Baltimore, MD</p>]]></description>
+            <link>https://twitter.com/theophilus318</link>
+            <guid isPermaLink="false">4df9547b-748f-4c2b-995d-050c45e73f62</guid>
+            <pubDate>Tue, 09 Feb 2016 20:28:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cross Connections]]></title>
-            <description><![CDATA[<article><h1>Cross Connections</h1><p>What does the gospel have to do with the Christian life?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19776720-37a6-4e06-a1fb-4ba0d1d438fc.png"></article>]]></description>
-            <link>undefinedcross-connections/index.html</link>
+            <description><![CDATA[<article><h1>Cross Connections</h1><p>What does the gospel have to do with the Christian life?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6685bb2858ba53e5cfe5c4ee897dc15e0dd837b2.png"></article>]]></description>
+            <link>http://brendanbeale.org/cross-connections/index.html</link>
             <guid isPermaLink="false">4cf489e8-28c1-44b9-93d5-1ca411c87489</guid>
             <pubDate>Tue, 09 Feb 2016 19:57:00 GMT</pubDate>
         </item>
