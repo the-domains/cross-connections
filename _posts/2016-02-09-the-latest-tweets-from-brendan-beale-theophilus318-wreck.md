@@ -17,8 +17,8 @@ keywords:
   - newton
   - exodus
 description: 'The latest Tweets from Brendan Beale (@theophilus318). Wrecked and remade by Jesus. Husband, father, teacher, author, pizza-lover. In that order. Baltimore, MD'
-datePublished: '2016-02-09T16:40:26.576Z'
-dateModified: '2016-02-09T16:36:35.574Z'
+datePublished: '2016-02-09T20:28:28.615Z'
+dateModified: '2016-02-09T20:28:26.669Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/3190317980/9a63d0c277daadaab9351a9904184f84_400x400.jpeg'
@@ -43,16 +43,16 @@ author:
 related: []
 app_links: []
 title: ''
+sourcePath: _posts/2016-02-09-the-latest-tweets-from-brendan-beale-theophilus318-wreck.md
+published: true
 authors: []
 publisher:
   name: Twitter
   domain: twitter.com
   url: 'https://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-sourcePath: _posts/2016-02-09-the-latest-tweets-from-brendan-beale-theophilus318-wreck.md
-published: true
 _type: Comment
 _context: 'http://schema.org'
 
 ---
-> The latest tweets from Brendan Beale (@theophilus318). Wrecked and remade by Jesus, husband, father, teacher, author, pizza-lover. In that order. Baltimore, MD
+> Brendan's Twitter feed (@theophilus318). Wrecked and remade by Jesus, husband, father, teacher, author, pizza-lover. In that order. Baltimore, MD
