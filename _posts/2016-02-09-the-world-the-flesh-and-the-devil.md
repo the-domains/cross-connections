@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T23:21:59.758Z'
-dateModified: '2016-02-09T23:16:32.968Z'
+datePublished: '2016-02-09T23:32:36.069Z'
+dateModified: '2016-02-09T23:32:31.081Z'
 title: 'The World, the Flesh, and the Devil'
 author: []
 sourcePath: _posts/2016-02-09-the-world-the-flesh-and-the-devil.md
