@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wrecked and Remade by Jesus]]></title>
+        <description><![CDATA[Wrecked and Remade by Jesus]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 20:01:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cross Connections]]></title>
+            <description><![CDATA[<article><h1>Cross Connections</h1><p>What does the gospel have to do with the Christian life?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19776720-37a6-4e06-a1fb-4ba0d1d438fc.png"></article>]]></description>
+            <link>undefinedcross-connections/index.html</link>
+            <guid isPermaLink="false">4cf489e8-28c1-44b9-93d5-1ca411c87489</guid>
+            <pubDate>Tue, 09 Feb 2016 19:57:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
