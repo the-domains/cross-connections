@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T23:46:02.568Z'
-dateModified: '2016-02-09T23:45:58.445Z'
+datePublished: '2016-02-09T23:59:38.074Z'
+dateModified: '2016-02-09T23:59:34.777Z'
 title: Cross Connections
 author: []
 sourcePath: _posts/2016-02-09-cross-connections.md
@@ -31,6 +31,5 @@ The cross is the center of history, the Bible, and the Christian life. In fact, 
 "Walk in love, just as Christ loved us and gave himself for us." "Welcome one another as Christ welcomed you." "As Christ has forgiven you, so you also must forgive." These are "cross connections"- specific lines of motivation drawn from the cross to our lives. 
 
 Click [**here**][0] to explore the riches of God's grace in these connections.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af374510-0078-4a94-bc5b-a6da2077ddfa.jpg)
 
 [0]: https://thegrid.ai/crossconnections/
