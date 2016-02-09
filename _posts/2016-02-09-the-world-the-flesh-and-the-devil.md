@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T23:49:54.016Z'
-dateModified: '2016-02-09T23:49:47.725Z'
+datePublished: '2016-02-09T23:51:12.961Z'
+dateModified: '2016-02-09T23:51:08.055Z'
 title: 'The World, the Flesh, and the Devil'
 author: []
 sourcePath: _posts/2016-02-09-the-world-the-flesh-and-the-devil.md
