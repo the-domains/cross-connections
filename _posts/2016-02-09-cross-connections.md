@@ -6,24 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T19:57:00.386Z'
-dateModified: '2016-02-09T19:56:47.555Z'
+datePublished: '2016-02-09T23:41:17.562Z'
+dateModified: '2016-02-09T23:41:14.513Z'
 title: Cross Connections
 author: []
+sourcePath: _posts/2016-02-09-cross-connections.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-cross-connections.md
-published: true
 url: cross-connections/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19776720-37a6-4e06-a1fb-4ba0d1d438fc.png)
-
 [CROSS CONNECTIONS][0]
 
 What does the gospel have to do with the Christian life?
