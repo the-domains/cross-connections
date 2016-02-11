@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T23:55:21.654Z'
-dateModified: '2016-02-09T23:55:06.820Z'
+datePublished: '2016-02-11T21:57:20.992Z'
+dateModified: '2016-02-11T21:57:09.563Z'
 title: Grace That Taught My Heart To Fear
 author: []
+sourcePath: _posts/2016-02-09-grace-that-taught-my-heart-to-fear.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-grace-that-taught-my-heart-to-fear.md
-published: true
 url: grace-that-taught-my-heart-to-fear/index.html
 _type: Article
 
