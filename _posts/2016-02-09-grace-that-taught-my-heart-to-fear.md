@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-12T01:15:28.578Z'
-dateModified: '2016-02-12T01:15:27.691Z'
+datePublished: '2016-02-12T13:41:54.068Z'
+dateModified: '2016-02-12T13:41:52.502Z'
 title: Grace That Taught My Heart To Fear
 author: []
 sourcePath: _posts/2016-02-09-grace-that-taught-my-heart-to-fear.md
@@ -22,7 +22,7 @@ url: grace-that-taught-my-heart-to-fear/index.html
 _type: Article
 
 ---
-[GRACE THAT TAUGHT MY HEART TO FEAR][0]
+[FEARING GOD AT THE FOOT OF THE CROSS][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3d53d9d-d671-4a14-9ebf-2038524cb1a5.png)
 
 The Bible talks a lot about "fearing God." But how can you have a relationship with someone you fear? And what does the gospel- the good news of forgiveness and mercy purchased for us by Jesus- have to do with this command?
