@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T13:41:54.068Z'
-dateModified: '2016-02-12T13:41:52.502Z'
+datePublished: '2016-02-12T16:49:38.292Z'
+dateModified: '2016-02-12T16:49:35.040Z'
 title: Grace That Taught My Heart To Fear
 author: []
 sourcePath: _posts/2016-02-09-grace-that-taught-my-heart-to-fear.md
