@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T18:16:00.696Z'
-dateModified: '2016-02-12T18:15:27.637Z'
+datePublished: '2016-02-12T18:17:28.806Z'
+dateModified: '2016-02-12T18:17:26.757Z'
 title: 'The World, the Flesh, and the Devil'
 author: []
 sourcePath: _posts/2016-02-09-the-world-the-flesh-and-the-devil.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 [WIELDING THE GOSPEL IN THE FIGHT OF FAITH][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f744776-8e38-46ab-ba98-b3ef65b842be.jpg)
 
 At the end of his life, the apostle Paul summarized his Christian life by saying, "I have fought the good fight." Could you say the same? Or have the enemies of your soul lulled you into a comfortable cease-fire?
 
