@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T13:43:45.605Z'
-dateModified: '2016-02-12T13:43:42.539Z'
+datePublished: '2016-02-12T13:56:47.357Z'
+dateModified: '2016-02-12T13:56:42.087Z'
 title: Cross Connections
 author: []
 sourcePath: _posts/2016-02-09-cross-connections.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 [CONNECTING THE DOTS FROM THE CENTER TO EVERYTHING ELSE][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91165b9a-7211-4242-a149-b70c0add8ff5.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80c20612-c601-40ea-9149-f3390948977b.jpg)
 
 What does the gospel have to do with the Christian life?
 
